@@ -10,7 +10,7 @@ La IGJ tiene competencia federal en las Sociedades de Capitalización y Ahorro, 
 Características
 ---------------
 
--   **Fecha de Publicación:** 14/09/2016
+-   **Fecha de Publicación:** 19/09/2016
 
 -   **Recurso:** Entidades constituidas en la Inspección General de Justicia
 
