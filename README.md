@@ -26,14 +26,14 @@ Características
 
 -   **Frecuencia de Actualización:** Eventual.
 
-Recursos
---------
+Recursos Disponibles
+--------------------
 
 ### Entidades
 
--   **Nombre:** igj-entidades.csv
+-   **Nombre del archivo:** igj-entidades.csv
 
--   **Descripción:** Entidades constituidas en la IGJ
+-   **Descripción del contenido:** Entidades constituidas en la IGJ
 
 -   **Formato:** CSV delimitado por comas
 
@@ -41,7 +41,7 @@ Recursos
 
 -   **Fecha de Actualización:** 31/08/2016
 
-#### Campos del recurso
+### Campos del recurso
 
 -   **numero\_correlativo (int):** Número correlativo que identifica la entidad
 
