@@ -16,17 +16,17 @@ Características
 
 -   **Tags o Etiquetas:** entidades, sociedades, IGJ, personas jurídicas, SRL, fundación, asociación civil, sociedad anónima, etc.
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Inspección General de Justicia.
+-   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Inspección General de Justicia
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Inspección General de Justicia.
+-   **Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Inspección General de Justicia
 
--   **Responsable:** Inspección General de Justicia.
+-   **Responsable:** Inspección General de Justicia
 
--   **Grupos:** Sistema Registral.
+-   **Grupo:** Sistema Registral
 
--   **Frecuencia de Actualización:** Eventual.
+-   **Frecuencia de Actualización:** Eventual
 
-Recursos Disponibles
+Recursos disponibles
 --------------------
 
 ### Entidades
@@ -150,7 +150,7 @@ Recursos Disponibles
 
 -   **Descripción:** Presentación de balances de las entidades
 
--   **Formato:** CSV delimitados por comas.
+-   **Formato:** CSV delimitados por comas
 
 -   **Rango temporal:** -
 
@@ -172,7 +172,6 @@ Recursos Disponibles
 
 -   **capital\_informado (float):** Número correlativo que identifica la entidad
 
-Notas
------
+### Notas
 
 Los trámites a realizarse en la IGJ pueden consultarse iniciarse o iniciarse en [*http://www.jus.gob.ar/igj*](http://www.jus.gob.ar/igj)
