@@ -62,7 +62,7 @@ Recursos disponibles
 -   **Rango temporal:** -
 
 
-#### Campos del recurso
+### Campos del recurso
 
 -   **numero\_correlativo (int):** Número correlativo que identifica la entidad
 
@@ -98,7 +98,7 @@ Recursos disponibles
 
 -   **Fecha de Actualización:** 31/08/2016
 
-#### Campos del recurso
+### Campos del recurso
 
 -   **numero\_correlativo (int):** Número correlativo que identifica la entidad
 
@@ -126,7 +126,7 @@ Recursos disponibles
 
 -   **Fecha de Actualización:** 31/08/2016
 
-#### Campos del recurso
+### Campos del recurso
 
 -   **numero\_correlativo (int):** Número correlativo que identifica la entidad
 
@@ -156,7 +156,7 @@ Recursos disponibles
 
 -   **Fecha de Actualización:** 31/08/2016
 
-#### Campos del recurso
+### Campos del recurso
 
 -   **numero\_correlativo (int):** Número correlativo
 
