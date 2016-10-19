@@ -12,8 +12,6 @@ Características
 
 -   **Fecha de Publicación:** 19/09/2016
 
--   **Recurso:** Entidades constituidas en la Inspección General de Justicia
-
 -   **Tags o Etiquetas:** entidades, sociedades, IGJ, personas jurídicas, SRL, fundación, asociación civil, sociedad anónima, etc.
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Inspección General de Justicia
