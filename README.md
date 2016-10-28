@@ -58,7 +58,6 @@ Recursos disponibles
 
 -   **Rango temporal:** -
 
-
 ### Campos del recurso
 
 -   **numero\_correlativo (int):** número correlativo que identifica la entidad
@@ -111,6 +110,34 @@ Recursos disponibles
 
 -   **numero\_documento (string):** número de documento del administrador
 
+### Balances
+
+-   **Nombre:** igj-balances.csv
+
+-   **Descripción:** presentación de balances de las entidades
+
+-   **Formato:** CSV delimitados por comas
+
+-   **Rango temporal:** -
+
+-   **Fecha de Actualización:** 31/08/2016
+
+### Campos del recurso
+
+-   **numero\_correlativo (int):** número correlativo
+
+-   **tipo\_societario (int):** código del tipo societario
+
+-   **descripción\_tipo\_societario (string):** descripción del tipo societario
+
+-   **razon\_social (string):** razón social de la entidad
+
+-   **fecha\_balance (date):** fecha de cierre del balance
+
+-   **fecha\_presentacion (date):** fecha de presentación del balance
+
+-   **capital\_informado (float):** número correlativo que identifica la entidad
+
 ### Asambleas
 
 -   **Nombre:** igj-asambleas.csv
@@ -141,33 +168,6 @@ Recursos disponibles
 
 -   **fecha\_presentacion (date):** fecha de presentación de la asamblea
 
-### Balances
-
--   **Nombre:** igj-balances.csv
-
--   **Descripción:** presentación de balances de las entidades
-
--   **Formato:** CSV delimitados por comas
-
--   **Rango temporal:** -
-
--   **Fecha de Actualización:** 31/08/2016
-
-### Campos del recurso
-
--   **numero\_correlativo (int):** número correlativo
-
--   **tipo\_societario (int):** código del tipo societario
-
--   **descripción\_tipo\_societario (string):** descripción del tipo societario
-
--   **razon\_social (string):** razón social de la entidad
-
--   **fecha\_balance (date):** fecha de cierre del balance
-
--   **fecha\_presentacion (date):** fecha de presentación del balance
-
--   **capital\_informado (float):** número correlativo que identifica la entidad
 
 ### Notas
 
