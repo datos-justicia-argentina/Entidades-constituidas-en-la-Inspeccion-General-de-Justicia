@@ -21,7 +21,7 @@ Características
 -   **Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Inspección General de Justicia
 -   **Grupo:** Sistema Registral
 
--   **Frecuencia de Actualización:** Eventual
+-   **Frecuencia de Actualización:** eventual
 
 Recursos disponibles
 --------------------
@@ -30,7 +30,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** igj-entidades.csv
 
--   **Descripción del contenido:** Entidades constituidas en la IGJ
+-   **Descripción del contenido:** entidades constituidas en la IGJ
 
 -   **Formato:** CSV delimitado por comas
 
@@ -40,19 +40,19 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **numero\_correlativo (int):** Número correlativo que identifica la entidad
+-   **numero\_correlativo (int):** número correlativo que identifica la entidad
 
--   **tipo\_societario (int):** Código del tipo societario
+-   **tipo\_societario (int):** código del tipo societario
 
--   **descripcion\_tipo\_societario (string):** Descripción del tipo societario
+-   **descripcion\_tipo\_societario (string):** descripción del tipo societario
 
--   **razon\_social (string):** Razón social de la entidad
+-   **razon\_social (string):** razón social de la entidad
 
 ### Domicilios
 
 -   **Nombre:** igj-domicilios.csv
 
--   **Descripción:** Domicilios de las entidades
+-   **Descripción:** domicilios de las entidades
 
 -   **Formato:** CSV delimitado por comas
 
@@ -61,33 +61,33 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **numero\_correlativo (int):** Número correlativo que identifica la entidad
+-   **numero\_correlativo (int):** número correlativo que identifica la entidad
 
--   **tipo\_societario (int):** Código del tipo societario
+-   **tipo\_societario (int):** código del tipo societario
 
--   **descripción\_tipo\_societario (string):** Descripción del tipo societario
+-   **descripción\_tipo\_societario (string):** descripción del tipo societario
 
--   **razon\_social (string):** Razón social de la entidad
+-   **razon\_social (string):** razón social de la entidad
 
--   **tipo\_domicilio (string):** Tipo de domicilio que corresponde a la entidad (L Legal, S Sucursal)
+-   **tipo\_domicilio (string):** tipo de domicilio que corresponde a la entidad (L Legal, S Sucursal)
 
--   **descripcion\_tipo\_domicilio (string):** Descripción del tipo de domicilio que corresponde a la entidad
+-   **descripcion\_tipo\_domicilio (string):** descripción del tipo de domicilio que corresponde a la entidad
 
--   **calle (string):** Calle del domicilio de la entidad
+-   **calle (string):** calle del domicilio de la entidad
 
--   **numero (string):** Número del domicilio de la entidad
+-   **numero (string):** número del domicilio de la entidad
 
--   **localidad (string):** Localidad del domicilio de la entidad
+-   **localidad (string):** localidad del domicilio de la entidad
 
--   **provincia (string):** Provincia del domicilio de la entidad
+-   **provincia (string):** provincia del domicilio de la entidad
 
--   **codigo\_postal (string):** Código postal del domicilio de la entidad
+-   **codigo\_postal (string):** código postal del domicilio de la entidad
 
 ### Autoridades
 
 -   **Nombre:** igj-asambleas.csv
 
--   **Descripción:** Autoridades de las entidades
+-   **Descripción:** autoridades de las entidades
 
 -   **Formato:** CSV delimitado por comas
 
@@ -97,25 +97,25 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **numero\_correlativo (int):** Número correlativo que identifica la entidad
+-   **numero\_correlativo (int):** número correlativo que identifica la entidad
 
--   **apellido\_nombre (string):** Apellido y nombre de la autoridad
+-   **apellido\_nombre (string):** apellido y nombre de la autoridad
 
--   **tipo\_administrador (string):** Código de tipo de administrador (A Autoridades, R Representantes, S Socios)
+-   **tipo\_administrador (string):** código de tipo de administrador (A Autoridades, R Representantes, S Socios)
 
--   **descripcion\_tipo\_administrador (string):** Descripción del tipo de administrador
+-   **descripcion\_tipo\_administrador (string):** descripción del tipo de administrador
 
--   **tipo\_documento (string):** Código de tipo de documento del administrador
+-   **tipo\_documento (string):** código de tipo de documento del administrador
 
--   **descripcion\_tipo\_documento (string):** Descripción del tipo de documento del administrador
+-   **descripcion\_tipo\_documento (string):** descripción del tipo de documento del administrador
 
--   **numero\_documento (string):** Número de documento del administrador
+-   **numero\_documento (string):** número de documento del administrador
 
 ### Asambleas
 
 -   **Nombre:** igj-asambleas.csv
 
--   **Descripción:** Presentación de Asambleas de las entidades
+-   **Descripción:** presentación de Asambleas de las entidades
 
 -   **Formato:** CSV delimitado por comas
 
@@ -125,27 +125,27 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **numero\_correlativo (int):** Número correlativo que identifica la entidad
+-   **numero\_correlativo (int):** número correlativo que identifica la entidad
 
--   **tipo\_societario (int):** Código del tipo societario
+-   **tipo\_societario (int):** código del tipo societario
 
--   **descripción\_tipo\_societario (string):** Descripción del tipo societario
+-   **descripción\_tipo\_societario (string):** descripción del tipo societario
 
--   **razon\_social (string):** Razón social de la entidad
+-   **razon\_social (string):** razón social de la entidad
 
--   **tipo\_asamblea (string):** Tipo de asamblea
+-   **tipo\_asamblea (string):** tipo de asamblea
 
--   **descripción\_tipo\_asamblea (string):** Descripción del tipo de asamblea
+-   **descripción\_tipo\_asamblea (string):** descripción del tipo de asamblea
 
--   **fecha\_realizacion (date):** Fecha de realización de la asamblea
+-   **fecha\_realizacion (date):** fecha de realización de la asamblea
 
--   **fecha\_presentacion (date):** Fecha de presentación de la asamblea
+-   **fecha\_presentacion (date):** fecha de presentación de la asamblea
 
 ### Balances
 
 -   **Nombre:** igj-balances.csv
 
--   **Descripción:** Presentación de balances de las entidades
+-   **Descripción:** presentación de balances de las entidades
 
 -   **Formato:** CSV delimitados por comas
 
@@ -155,19 +155,19 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **numero\_correlativo (int):** Número correlativo
+-   **numero\_correlativo (int):** número correlativo
 
--   **tipo\_societario (int):** Código del tipo societario
+-   **tipo\_societario (int):** código del tipo societario
 
--   **descripción\_tipo\_societario (string):** Descripción del tipo societario
+-   **descripción\_tipo\_societario (string):** descripción del tipo societario
 
--   **razon\_social (string):** Razón social de la entidad
+-   **razon\_social (string):** razón social de la entidad
 
--   **fecha\_balance (date):** Fecha de cierre del balance
+-   **fecha\_balance (date):** fecha de cierre del balance
 
--   **fecha\_presentacion (date):** Fecha de presentación del balance
+-   **fecha\_presentacion (date):** fecha de presentación del balance
 
--   **capital\_informado (float):** Número correlativo que identifica la entidad
+-   **capital\_informado (float):** número correlativo que identifica la entidad
 
 ### Notas
 
