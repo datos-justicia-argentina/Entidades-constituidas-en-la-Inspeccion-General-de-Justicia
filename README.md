@@ -30,7 +30,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** igj-entidades.csv
 
--   **Descripción del contenido:** entidades constituidas en la IGJ
+-   **Descripción del contenido:** entidades dadas de alta en IGJ
 
 -   **Formato:** CSV delimitado por comas
 
@@ -171,4 +171,4 @@ Recursos disponibles
 
 ### Notas
 
-Los trámites a realizarse en la IGJ pueden consultarse iniciarse o iniciarse en [*http://www.jus.gob.ar/igj*](http://www.jus.gob.ar/igj)
+Los trámites a realizarse en la IGJ pueden consultarse o iniciarse en [*http://www.jus.gob.ar/igj*](http://www.jus.gob.ar/igj)
