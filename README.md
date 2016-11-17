@@ -40,13 +40,15 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **numero\_correlativo (int):** número correlativo que identifica la entidad
+-   **numero_correlativo (int):** número correlativo que identifica la entidad
 
--   **tipo\_societario (int):** código del tipo societario
+-   **tipo_societario (int):** código del tipo societario
 
--   **descripcion\_tipo\_societario (string):** descripción del tipo societario
+-   **descripcion_tipo_societario (string):** descripción del tipo societario
 
--   **razon\_social (string):** razón social de la entidad
+-   **razon_social (string):** razón social de la entidad
+
+-   **informada_como_inactiva (string):** toma valor "S" si la entidad forma parte del Registro de Entidades Inactivas. (incuído a partir de 2016-10)
 
 ### Domicilios
 
