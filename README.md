@@ -48,7 +48,7 @@ Recursos disponibles
 
 -   **razon_social (string):** razón social de la entidad
 
--   **informada_como_inactiva (string):** toma valor "S" si la entidad forma parte del Registro de Entidades Inactivas. (incuído a partir de 2016-10)
+-   **informada_como_inactiva (string):** toma valor "S" si la entidad forma parte del Registro de Entidades Inactivas (incuído a partir de 2016-10).
 
 ### Domicilios
 
