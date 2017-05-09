@@ -1,4 +1,4 @@
-Entidades constituidas en la Inspección General de Justicia
+Entidades Constituidas en la Inspección General de Justicia
 ===========================================================
 
 En este conjunto de datos se detallan los datos de las entidades constituidas en la Inspección General de Justicia -IGJ.
@@ -10,7 +10,7 @@ La IGJ tiene competencia federal en las Sociedades de Capitalización y Ahorro, 
 Características
 ---------------
 
--   **Fecha de Publicación:** 19/09/2016
+-   **Fecha de Primera Publicación:** 19/09/2016
 
 -   **Tags o Etiquetas:** entidades, sociedades, IGJ, personas jurídicas, SRL, fundación, asociación civil, sociedad anónima, etc.
 
