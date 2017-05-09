@@ -21,7 +21,7 @@ Características
 -   **Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Inspección General de Justicia
 -   **Grupo:** Sistema Registral
 
--   **Frecuencia de Actualización:** eventual
+-   **Frecuencia de Actualización:** Mensualmente
 
 Recursos disponibles
 --------------------
