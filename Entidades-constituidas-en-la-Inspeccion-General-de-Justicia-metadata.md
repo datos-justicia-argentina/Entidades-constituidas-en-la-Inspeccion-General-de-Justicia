@@ -28,7 +28,7 @@ Recursos disponibles
 
 ### Entidades
 
--   **Nombre del archivo:** igj-entidades.csv
+-   **Nombre del archivo:** igj-entidades-AAAA-MM.csv
 
 -   **Descripción del contenido:** Entidades dadas de alta en IGJ
 
@@ -50,7 +50,7 @@ Recursos disponibles
 
 ### Domicilios
 
--   **Nombre:** igj-domicilios.csv
+-   **Nombre:** igj-domicilios-AAAA-MM.csv
 
 -   **Descripción:** Domicilios de las entidades
 
@@ -84,7 +84,7 @@ Recursos disponibles
 
 ### Autoridades
 
--   **Nombre:** igj-asambleas.csv
+-   **Nombre:** igj-asambleas-AAAA-MM.csv
 
 -   **Descripción:** Autoridades de las entidades
 
@@ -110,7 +110,7 @@ Recursos disponibles
 
 ### Balances
 
--   **Nombre:** igj-balances.csv
+-   **Nombre:** igj-balances-AAAA-MM.csv
 
 -   **Descripción:** Presentación de balances de las entidades
 
@@ -136,7 +136,7 @@ Recursos disponibles
 
 ### Asambleas
 
--   **Nombre:** igj-asambleas.csv
+-   **Nombre:** igj-asambleas-AAAA-MM.csv
 
 -   **Descripción:** Presentación de Asambleas de las entidades
 
