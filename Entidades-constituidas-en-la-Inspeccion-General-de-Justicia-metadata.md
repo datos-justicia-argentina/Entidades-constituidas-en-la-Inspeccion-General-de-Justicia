@@ -30,7 +30,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** igj-entidades-AAAA-MM.csv
 
--   **Descripción del contenido:** Entidades dadas de alta en IGJ
+-   **Descripción del contenido:** entidades dadas de alta en IGJ
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
