@@ -1,4 +1,4 @@
-Entidades Constituidas en la Inspección General de Justicia
+Entidades constituidas en la Inspección General de Justicia
 ===========================================================
 
 En este conjunto de datos se detallan los datos de las entidades constituidas en la Inspección General de Justicia -IGJ.
