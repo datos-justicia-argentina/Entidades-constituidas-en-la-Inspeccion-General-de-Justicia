@@ -84,7 +84,7 @@ Recursos disponibles
 
 ### Autoridades
 
--   **Nombre:** igj-asambleas-AAAA-MM.csv
+-   **Nombre:** igj-autoridades-AAAA-MM.csv
 
 -   **Descripción:** autoridades de las entidades
 
