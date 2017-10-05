@@ -19,6 +19,7 @@ Características
 -   **Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Inspección General de Justicia
 
 -   **Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Inspección General de Justicia
+
 -   **Grupo:** Sistema Registral
 
 -   **Frecuencia de Actualización:** Mensualmente
@@ -30,7 +31,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** igj-entidades-AAAA-MM.csv
 
--   **Descripción del contenido:** entidades dadas de alta en IGJ
+-   **Descripción del contenido:** entidades dadas de alta / baja en IGJ
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -46,7 +47,11 @@ Recursos disponibles
 
 -   **razon_social (string):** razón social de la entidad
 
--   **informada_como_inactiva (string):** toma valor "S" si la entidad forma parte del Registro de Entidades Inactivas (incuído a partir de 2016-10)
+-   **dada_de_baja (string):** toma valor "S" si la entidad forma parte del Registro de Entidades Inactivas (incuído a partir de 2016-10)
+
+-   **codigo_baja (int):** código que identifica la baja
+
+-   **detalle_baja (string):** descripción del motivo de la baja
 
 ### Domicilios
 
@@ -60,17 +65,17 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **numero\_correlativo (int):** número correlativo que identifica la entidad
+-   **numero_correlativo (int):** número correlativo que identifica la entidad
 
--   **tipo\_societario (int):** código del tipo societario
+-   **tipo_societario (int):** código del tipo societario
 
--   **descripción\_tipo\_societario (string):** descripción del tipo societario
+-   **descripcion_tipo_societario (string):** descripción del tipo societario
 
--   **razon\_social (string):** razón social de la entidad
+-   **razon_social (string):** razón social de la entidad
 
--   **tipo\_domicilio (string):** tipo de domicilio que corresponde a la entidad (L: Legal, S: Sucursal)
+-   **tipo_domicilio (string):** tipo de domicilio que corresponde a la entidad (L: Legal, S: Sucursal)
 
--   **descripcion\_tipo\_domicilio (string):** descripción del tipo de domicilio que corresponde a la entidad
+-   **descripcion_tipo_domicilio (string):** descripción del tipo de domicilio que corresponde a la entidad
 
 -   **calle (string):** calle del domicilio de la entidad
 
@@ -80,7 +85,7 @@ Recursos disponibles
 
 -   **provincia (string):** provincia del domicilio de la entidad
 
--   **codigo\_postal (string):** código postal del domicilio de la entidad
+-   **codigo_postal (string):** código postal del domicilio de la entidad
 
 ### Autoridades
 
@@ -94,19 +99,19 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **numero\_correlativo (int):** número correlativo que identifica la entidad
+-   **numero_correlativo (int):** número correlativo que identifica la entidad
 
--   **apellido\_nombre (string):** apellido y nombre de la autoridad
+-   **apellido_nombre (string):** apellido y nombre de la autoridad
 
--   **tipo\_administrador (string):** código de tipo de administrador (A Autoridades, R Representantes, S Socios)
+-   **tipo_administrador (string):** código de tipo de administrador (A Autoridades, R Representantes, S Socios)
 
--   **descripcion\_tipo\_administrador (string):** descripción del tipo de administrador
+-   **descripcion_tipo_administrador (string):** descripción del tipo de administrador
 
--   **tipo\_documento (string):** código de tipo de documento del administrador
+-   **tipo_documento (string):** código de tipo de documento del administrador
 
--   **descripcion\_tipo\_documento (string):** descripción del tipo de documento del administrador
+-   **descripcion_tipo_documento (string):** descripción del tipo de documento del administrador
 
--   **numero\_documento (string):** número de documento del administrador
+-   **numero_documento (string):** número de documento del administrador
 
 ### Balances
 
@@ -120,19 +125,19 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **numero\_correlativo (int):** número correlativo
+-   **numero_correlativo (int):** número correlativo
 
--   **tipo\_societario (int):** código del tipo societario
+-   **tipo_societario (int):** código del tipo societario
 
--   **descripción\_tipo\_societario (string):** descripción del tipo societario
+-   **descripción_tipo_societario (string):** descripción del tipo societario
 
--   **razon\_social (string):** razón social de la entidad
+-   **razon_social (string):** razón social de la entidad
 
--   **fecha\_balance (date):** fecha de cierre del balance
+-   **fecha_balance (date):** fecha de cierre del balance
 
--   **fecha\_presentacion (date):** fecha de presentación del balance
+-   **fecha_presentación (date):** fecha de presentación del balance
 
--   **capital\_informado (float):** número correlativo que identifica la entidad
+-   **capital_informado (float):** número correlativo que identifica la entidad
 
 ### Asambleas
 
@@ -146,21 +151,23 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **numero\_correlativo (int):** número correlativo que identifica la entidad
+-   **numero_correlativo (int):** número correlativo que identifica la entidad
 
--   **tipo\_societario (int):** código del tipo societario
+-   **tipo_societario (int):** código del tipo societario
 
--   **descripción\_tipo\_societario (string):** descripción del tipo societario
+-   **descripcion_tipo_societario (string):** descripción del tipo societario
 
--   **razon\_social (string):** razón social de la entidad
+-   **razon_social (string):** razón social de la entidad
 
--   **tipo\_asamblea (string):** tipo de asamblea
+-   **tipo_asamblea (string):** tipo de asamblea
 
--   **descripción\_tipo\_asamblea (string):** descripción del tipo de asamblea
+-   **descripcion_tipo_asamblea (string):** descripción del tipo de asamblea
 
--   **fecha\_realizacion (date):** fecha de realización de la asamblea
+-   **numero_asamblea (string):** número de la asamblea
 
--   **fecha\_presentacion (date):** fecha de presentación de la asamblea
+-   **fecha_realizacion (date):** fecha de realización de la asamblea
+
+-   **fecha_presentacion (date):** fecha de presentación de la asamblea
 
 
 ### Notas
