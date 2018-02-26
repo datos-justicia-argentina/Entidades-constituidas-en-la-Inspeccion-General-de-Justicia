@@ -14,7 +14,7 @@ Características
 
 -   **Fecha de Primera Publicación:** 19/09/2016
 
--   **Tags o Etiquetas:** entidades, sociedades, IGJ, personas jurídicas, SRL, fundación, asociación civil, sociedad anónima
+-   **Tags o Etiquetas:** entidades, sociedades, IGJ, personas jurídicas, SRL, fundaciones, asociaciones civiles, sociedades anónimas
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Inspección General de Justicia
 
