@@ -7,6 +7,8 @@ La IGJ, en ejercicio de su función fiscalizadora de personas jurídicas, regist
 
 La IGJ tiene competencia federal en las Sociedades de Capitalización y Ahorro, y en la implementación del Registro Nacional de Sociedades.
 
+http://datos.jus.gob.ar/dataset/entidades-constituidas-en-la-inspeccion-general-de-justicia-igj
+
 Características
 ---------------
 
@@ -31,7 +33,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** igj-entidades-AAAA-MM.csv
 
--   **Descripción del contenido:** entidades dadas de alta y dasas de baja en IGJ
+-   **Descripción del contenido:** detalle de las entidades dadas de alta y dasas de baja en IGJ
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -57,7 +59,7 @@ Recursos disponibles
 
 -   **Nombre:** igj-domicilios-AAAA-MM.csv
 
--   **Descripción:** domicilios de las entidades
+-   **Descripción del contenido:** detalle de los domicilios de las entidades
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -91,7 +93,7 @@ Recursos disponibles
 
 -   **Nombre:** igj-autoridades-AAAA-MM.csv
 
--   **Descripción:** autoridades de las entidades
+-   **Descripcióndel contenido:** detalle de las autoridades de las entidades
 
 -   **Formato:** CSV delimitado por comas, codoficado en UTF-8
 
@@ -117,7 +119,7 @@ Recursos disponibles
 
 -   **Nombre:** igj-balances-AAAA-MM.csv
 
--   **Descripción:** presentación de balances de las entidades
+-   **Descripción del contenido:** detalle de los balances de las entidades
 
 -   **Formato:** CSV delimitados por comas, codificado en UTF-8
 
@@ -143,7 +145,7 @@ Recursos disponibles
 
 -   **Nombre:** igj-asambleas-AAAA-MM.csv
 
--   **Descripción:** presentación de asambleas de las entidades
+-   **Descripción del contenido:** detalle de las asambleas de las entidades
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
