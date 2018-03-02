@@ -55,6 +55,8 @@ Recursos disponibles
 
 -   **detalle_baja (string):** descripción del motivo de la baja
 
+-   **cuit (int):** número de CUIT de la entidad. Este campo es informado a partir del mes de febrero de 2018
+
 ### Domicilios
 
 -   **Nombre:** igj-domicilios-AAAA-MM.csv
@@ -114,6 +116,8 @@ Recursos disponibles
 -   **descripcion_tipo_documento (string):** descripción del tipo de documento del administrador
 
 -   **numero_documento (string):** número de documento del administrador
+
+-   **sexo_autoridad (string):** sexo de la autoridad. Toma valores (M) para masculino y (F) femenino para femenino. Este campo es informado a partir del mes de febrero de 2018
 
 ### Balances
 
