@@ -117,7 +117,7 @@ Recursos disponibles
 
 -   **numero_documento (string):** número de documento del administrador
 
--   **sexo_autoridad (string):** sexo de la autoridad. Toma valores "M" para masculino y "F" femenino para femenino. Este campo es informado a partir del mes de febrero de 2018
+-   **sexo_autoridad (string):** sexo de la autoridad. Toma valores "M" para masculino y "F" para femenino. Este campo es informado a partir del mes de febrero de 2018
 
 ### Balances
 
