@@ -175,6 +175,13 @@ Recursos disponibles
 
 -   **fecha_presentacion (date):** fecha de presentación de la asamblea
 
+### IGJ - AAAA bimestre 9
+
+- **Nombre:** igj-AAAA-bimestre-9.zip
+
+- **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año
+
+- **Formato:** ZIP
 
 ### Notas
 
