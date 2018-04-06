@@ -65,7 +65,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** Domicilios de las entidades desde septiembre de 2016 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -99,7 +99,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codoficado en UTF-8
 
--   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** Autoridades de las entidades desde septiembre de 2016 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -127,7 +127,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitados por comas, codificado en UTF-8
 
--   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** Balances de las entidades desde septiembre de 2016 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -153,7 +153,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** Asambleas de las entidades desde septiembre de 2016 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
