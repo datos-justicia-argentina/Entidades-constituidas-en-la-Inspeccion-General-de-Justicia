@@ -37,7 +37,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** Entidades constituidas en la Inspección General de Justicia desde septiembre de 2016 hasta la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** entidades constituidas en la Inspección General de Justicia desde septiembre de 2016 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
