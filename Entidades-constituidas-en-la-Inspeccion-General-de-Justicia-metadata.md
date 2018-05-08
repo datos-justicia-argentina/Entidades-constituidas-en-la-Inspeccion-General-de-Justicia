@@ -117,7 +117,8 @@ Recursos disponibles
 
 -   **numero_documento (string):** número de documento del administrador
 
--   **genero_autoridad (string):** género de la autoridad. Toma valores "M" para masculino y "F" para femenino. Este campo es informado a partir del mes de febrero de 2018
+-   **genero_autoridad (string):** género de la autoridad. Toma valores "M" para masculino y "F" para femenino. Este campo es informado a partir del mes de febrero de 2018. No está diferenciado el dato de mujeres cis (mujeres cuyo género coincide con el sexo asignado al nacer, sexo biológico) del dato de mujeres trans.  
+
 
 ### Balances
 
