@@ -95,7 +95,7 @@ Recursos disponibles
 
 -   **Nombre:** igj-autoridades-AAAA-MM.csv
 
--   **Descripcióndel contenido:** detalle de las autoridades de las entidades
+-   **Descripcióndel contenido:** detalle de las autoridades activas de las entidades
 
 -   **Formato:** CSV delimitado por comas, codoficado en UTF-8
 
