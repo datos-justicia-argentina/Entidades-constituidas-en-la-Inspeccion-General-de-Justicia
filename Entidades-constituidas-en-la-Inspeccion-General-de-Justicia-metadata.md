@@ -180,7 +180,7 @@ Recursos disponibles
 
 - **Nombre:** igj-AAAA-semestre-9.zip
 
-- **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año. El archivo del año 2016 contiene los meses 9, 10, 11 y 12 de dicho año.
+- **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año. El archivo del año 2016 corresponde al 3er. cuatrimestre de dicho año.
 
 - **Formato:** ZIP
 
