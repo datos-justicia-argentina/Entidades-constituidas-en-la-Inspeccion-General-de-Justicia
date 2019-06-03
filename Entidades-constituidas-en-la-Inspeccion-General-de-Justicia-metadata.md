@@ -29,9 +29,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Entidades
+### IGJ. Entidades - AAAAMM
 
--   **Nombre del archivo:** igj-entidades-AAAA-MM.csv
+-   **Nombre del archivo:** igj-entidades-AAAAMM.csv
 
 -   **Descripción del contenido:** detalle de las entidades dadas de alta y dasas de baja en IGJ
 
@@ -57,9 +57,9 @@ Recursos disponibles
 
 -   **cuit (int):** número de CUIT de la entidad. Este campo es informado a partir del mes de febrero de 2018
 
-### Domicilios
+### IGJ. Domicilios de entidades constituidas en la IGJ - AAAAMM
 
--   **Nombre:** igj-domicilios-AAAA-MM.csv
+-   **Nombre:** igj-domicilios-AAAAMM.csv
 
 -   **Descripción del contenido:** detalle de los domicilios de las entidades
 
@@ -91,9 +91,9 @@ Recursos disponibles
 
 -   **codigo_postal (string):** código postal del domicilio de la entidad
 
-### Autoridades
+### IGJ. Autoridades de entidades - AAAAMM
 
--   **Nombre:** igj-autoridades-AAAA-MM.csv
+-   **Nombre:** igj-autoridades-AAAAMM.csv
 
 -   **Descripcióndel contenido:** detalle de las autoridades activas de las entidades
 
@@ -120,9 +120,9 @@ Recursos disponibles
 -   **genero_autoridad (string):** género de la autoridad. Toma valores "M" para masculino y "F" para femenino. Este campo es informado a partir del mes de febrero de 2018. No está diferenciado el dato de mujeres cis (mujeres cuyo género coincide con el sexo asignado al nacer, sexo biológico) del dato de mujeres trans.  
 
 
-### Balances
+### IGJ. Balances presentados por entidades constituidas en la IGJ - AAAAMM
 
--   **Nombre:** igj-balances-AAAA-MM.csv
+-   **Nombre:** igj-balances-AAAAMM.csv
 
 -   **Descripción del contenido:** detalle de los balances de las entidades
 
@@ -146,9 +146,9 @@ Recursos disponibles
 
 -   **capital_informado (float):** número correlativo que identifica la entidad
 
-### Asambleas
+### IGJ. Asambleas de entidades constituidas en la IGJ - AAAAMM
 
--   **Nombre:** igj-asambleas-AAAA-MM.csv
+-   **Nombre:** igj-asambleas-AAAAMM.csv
 
 -   **Descripción del contenido:** detalle de las asambleas de las entidades
 
