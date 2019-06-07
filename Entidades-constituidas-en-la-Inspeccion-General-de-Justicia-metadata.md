@@ -65,7 +65,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** muestreo de los domicilios de las entidades constituidas en la Inspección General de Justicia en el príodo informado
+-   **Rango temporal:** muestreo de los domicilios de entidades constituidas en la Inspección General de Justicia en el príodo informado
 
 ### Campos del recurso
 
@@ -128,7 +128,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitados por comas, codificado en UTF-8
 
--   **Rango temporal:** Muestreo de los Balances de las entidades dentidades constituidas en la Inspección General de Justicia en el período informado
+-   **Rango temporal:** Muestreo de los Balances de entidades constituidas en la Inspección General de Justicia en el período informado
 
 ### Campos del recurso
 
