@@ -33,11 +33,11 @@ Recursos disponibles
 
 -   **Nombre del archivo:** igj-entidades-AAAAMM-muestreo.csv
 
--   **Descripción del contenido:** Muestreo de 1000 registros de las entidades constituidas en la Inspección General de Justicia - IGJ. Los datos completos están publicados en formato zip.
+-   **Descripción del contenido:** Muestreo de 1000 registros de entidades constituidas en la Inspección General de Justicia - IGJ. Los datos completos están publicados en formato zip.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** muestreo de las entidades constituidas en la Inspección General de Justicia en el período informado
+-   **Rango temporal:** muestreo de entidades constituidas en la Inspección General de Justicia en el período informado
 
 ### Campos del recurso
 
