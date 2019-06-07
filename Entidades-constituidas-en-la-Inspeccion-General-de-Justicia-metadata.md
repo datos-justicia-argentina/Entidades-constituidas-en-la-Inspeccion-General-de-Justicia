@@ -29,15 +29,15 @@ Características
 Recursos disponibles
 --------------------
 
-### IGJ. Entidades - AAAAMM
+### IGJ. Entidades - AAAAMM - Muestreo
 
--   **Nombre del archivo:** igj-entidades-AAAAMM.csv
+-   **Nombre del archivo:** igj-entidades-AAAAMM-muestreo.csv
 
--   **Descripción del contenido:** detalle de las entidades dadas de alta y dasas de baja en IGJ
+-   **Descripción del contenido:** Muestreo de 1000 registros de las entidades constituidas en la Inspección General de Justicia - IGJ. Los datos completos están publicados en formato zip.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** entidades constituidas en la Inspección General de Justicia desde septiembre de 2016 hasta la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** muestreo de entidades constituidas en la Inspección General de Justicia en el período informado
 
 ### Campos del recurso
 
@@ -57,15 +57,15 @@ Recursos disponibles
 
 -   **cuit (int):** número de CUIT de la entidad. Este campo es informado a partir del mes de febrero de 2018
 
-### IGJ. Domicilios de entidades constituidas en la IGJ - AAAAMM
+### IGJ. Domicilios de entidades constituidas en la IGJ - AAAAMM - Muestreo
 
--   **Nombre:** igj-domicilios-AAAAMM.csv
+-   **Nombre:** igj-domicilios-AAAAMM-muestreo.csv
 
--   **Descripción del contenido:** detalle de los domicilios de las entidades
+-   **Descripción del contenido:** Muestreo de 1000 registros de los domicilios de entidades constituidas en la Inspección General de Justicia - IGJ. Los datos completos están publicados en formato zip.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** Domicilios de las entidades desde septiembre de 2016 hasta la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** muestreo de los domicilios de las entidades constituidas en la Inspección General de Justicia en el príodo informado
 
 ### Campos del recurso
 
@@ -91,15 +91,15 @@ Recursos disponibles
 
 -   **codigo_postal (string):** código postal del domicilio de la entidad
 
-### IGJ. Autoridades de entidades - AAAAMM
+### IGJ. Autoridades de entidades - AAAAMM - Muestreo
 
--   **Nombre:** igj-autoridades-AAAAMM.csv
+-   **Nombre:** igj-autoridades-AAAAMM-muestreo.csv
 
--   **Descripcióndel contenido:** detalle de las autoridades activas de las entidades
+-   **Descripcióndel contenido:** Muestreo de 1000 registros de las autoridades de entidades constituidas en la Inspección General de Justicia - IGJ. Los datos completos están publicados en formato zip.
 
 -   **Formato:** CSV delimitado por comas, codoficado en UTF-8
 
--   **Rango temporal:** Autoridades de las entidades desde septiembre de 2016 hasta la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** Muestreo de las autoridades de entidades constituidas en la Inspección General de Justicia en el período informado
 
 ### Campos del recurso
 
@@ -120,15 +120,15 @@ Recursos disponibles
 -   **genero_autoridad (string):** género de la autoridad. Toma valores "M" para masculino y "F" para femenino. Este campo es informado a partir del mes de febrero de 2018. No está diferenciado el dato de mujeres cis (mujeres cuyo género coincide con el sexo asignado al nacer, sexo biológico) del dato de mujeres trans.  
 
 
-### IGJ. Balances presentados por entidades constituidas en la IGJ - AAAAMM
+### IGJ. Balances presentados por entidades constituidas en la IGJ - AAAAMM - Muestreo
 
--   **Nombre:** igj-balances-AAAAMM.csv
+-   **Nombre:** igj-balances-AAAAMM-muestreo.csv
 
--   **Descripción del contenido:** detalle de los balances de las entidades
+-   **Descripción del contenido:** Muestreo de 1000 registros de los balances presentados por entidades constituidas en la Inspección General de Justicia - IGJ. Los datos completos están publicados en formato zip.
 
 -   **Formato:** CSV delimitados por comas, codificado en UTF-8
 
--   **Rango temporal:** Balances de las entidades desde septiembre de 2016 hasta la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** Muestreo de los Balances de las entidades dentidades constituidas en la Inspección General de Justicia en el período informado
 
 ### Campos del recurso
 
@@ -146,15 +146,15 @@ Recursos disponibles
 
 -   **capital_informado (float):** número correlativo que identifica la entidad
 
-### IGJ. Asambleas de entidades constituidas en la IGJ - AAAAMM
+### IGJ. Asambleas de entidades constituidas en la IGJ - AAAAMM - Muestreo
 
--   **Nombre:** igj-asambleas-AAAAMM.csv
+-   **Nombre:** igj-asambleas-AAAAMM-muestreo.csv
 
--   **Descripción del contenido:** detalle de las asambleas de las entidades
+-   **Descripción del contenido:** Muestreo de 1000 registros de las asambleas de entidades constituidas en la Inspección General de Justicia - IGJ. Los datos completos están publicados en formato zip.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** Asambleas de las entidades desde septiembre de 2016 hasta la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** Muestreo de las asambleas de entidades constituidas en la Inspección General de Justicia en el período informado
 
 ### Campos del recurso
 
