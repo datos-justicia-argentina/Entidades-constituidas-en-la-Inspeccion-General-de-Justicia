@@ -37,7 +37,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** muestreo de entidades constituidas en la Inspección General de Justicia en el período informado
+-   **Rango temporal:** muestreo de las entidades constituidas en la Inspección General de Justicia en el período informado
 
 ### Campos del recurso
 
