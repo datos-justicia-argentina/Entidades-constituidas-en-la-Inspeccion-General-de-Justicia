@@ -29,9 +29,9 @@ Características
 Recursos disponibles
 --------------------
 
-### IGJ. Entidades - AAAAMM - Muestreo
+### IGJ. Entidades - Muestreo
 
--   **Nombre del archivo:** igj-entidades-AAAAMM-muestreo.csv
+-   **Nombre del archivo:** igj-entidades-muestreo.csv
 
 -   **Descripción del contenido:** Muestreo de 1000 registros de entidades constituidas en la Inspección General de Justicia - IGJ. Los datos completos están publicados en formato zip.
 
@@ -57,9 +57,9 @@ Recursos disponibles
 
 -   **cuit (int):** número de CUIT de la entidad. Este campo es informado a partir del mes de febrero de 2018
 
-### IGJ. Domicilios de entidades constituidas en la IGJ - AAAAMM - Muestreo
+### IGJ. Domicilios de entidades constituidas en la IGJ - Muestreo
 
--   **Nombre:** igj-domicilios-AAAAMM-muestreo.csv
+-   **Nombre:** igj-domicilios-muestreo.csv
 
 -   **Descripción del contenido:** Muestreo de 1000 registros de los domicilios de entidades constituidas en la Inspección General de Justicia - IGJ. Los datos completos están publicados en formato zip.
 
@@ -91,9 +91,9 @@ Recursos disponibles
 
 -   **codigo_postal (string):** código postal del domicilio de la entidad
 
-### IGJ. Autoridades de entidades - AAAAMM - Muestreo
+### IGJ. Autoridades de entidades - Muestreo
 
--   **Nombre:** igj-autoridades-AAAAMM-muestreo.csv
+-   **Nombre:** igj-autoridades-muestreo.csv
 
 -   **Descripcióndel contenido:** Muestreo de 1000 registros de las autoridades de entidades constituidas en la Inspección General de Justicia - IGJ. Los datos completos están publicados en formato zip.
 
@@ -120,9 +120,9 @@ Recursos disponibles
 -   **genero_autoridad (string):** género de la autoridad. Toma valores "M" para masculino y "F" para femenino. Este campo es informado a partir del mes de febrero de 2018. No está diferenciado el dato de mujeres cis (mujeres cuyo género coincide con el sexo asignado al nacer, sexo biológico) del dato de mujeres trans.  
 
 
-### IGJ. Balances presentados por entidades constituidas en la IGJ - AAAAMM - Muestreo
+### IGJ. Balances presentados por entidades constituidas en la IGJ - Muestreo
 
--   **Nombre:** igj-balances-AAAAMM-muestreo.csv
+-   **Nombre:** igj-balances-muestreo.csv
 
 -   **Descripción del contenido:** Muestreo de 1000 registros de los balances presentados por entidades constituidas en la Inspección General de Justicia - IGJ. Los datos completos están publicados en formato zip.
 
@@ -146,9 +146,9 @@ Recursos disponibles
 
 -   **capital_informado (float):** número correlativo que identifica la entidad
 
-### IGJ. Asambleas de entidades constituidas en la IGJ - AAAAMM - Muestreo
+### IGJ. Asambleas de entidades constituidas en la IGJ - Muestreo
 
--   **Nombre:** igj-asambleas-AAAAMM-muestreo.csv
+-   **Nombre:** igj-asambleas-muestreo.csv
 
 -   **Descripción del contenido:** Muestreo de 1000 registros de las asambleas de entidades constituidas en la Inspección General de Justicia - IGJ. Los datos completos están publicados en formato zip.
 
